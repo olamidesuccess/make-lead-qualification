@@ -15,7 +15,8 @@ This automation **automatically finds and alerts your sales team about the BEST 
 - Sends **instant Slack alert** when a HOT lead arrives
 - **Automatically sends personalized email** to the lead
 - **Saves all lead info** in organized spreadsheet
-
+  
+- Email ** olamideprohub@gmail.com
 ---
 
 ## 💡 How It Works 
